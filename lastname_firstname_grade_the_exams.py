@@ -1,10 +1,12 @@
+#Task1
 import pandas as pd
 import numpy as np
+
 while True:
     print ("Please enter the name of opened file (.txt).","If it's not file .txt, enter.",sep="\n")
     a = input()
     try:
-        with open ("test.txt","r") as File1:
+        with open (a+".txt","r") as File1:
             print(File1.read())  
         print("Task completed")
         break      
