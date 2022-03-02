@@ -26,10 +26,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Download file: DSP301x_asm2_linhhnfx15364@funix.edu.vn.rar
-2. Extract file .rar: DSP301x_asm2_linhhnfx15364@funix.edu.vn.rar
-3. Open folder: DSP301x_asm2_linhhnfx15364@funix.edu.vn
-4. Run file: lastname_firstname_grade_the_exams.py
+1. Open terminal/command prompt and clone repository:
+   ```git clone https://github.com/datzlinh/CODE```
+2. Run file: 
+``` cd CODE ```
+``` python lastname_firstname_grade_the_exams.py ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
