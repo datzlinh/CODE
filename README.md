@@ -26,10 +26,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Open terminal/command prompt and clone repository:
+1. Open terminal/command prompt and clone repository
    ```git clone https://github.com/datzlinh/DSP301x_asm2_linhhnfx15364-funix.edu.vn```
-2. Run file: 
+2. Change directory
 ``` cd DSP301x_asm2_linhhnfx15364-funix.edu.vn```
+3. Execute code
 ``` python lastname_firstname_grade_the_exams.py ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
